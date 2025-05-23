@@ -41,6 +41,8 @@
                                 <th>Zip</th>
                                 <th>Action</th>
                                 <th>Hello</th>
+                                <th>jmako</th>
+                                <th>gagi</th>
                             </tr>
                         </thead>
 
