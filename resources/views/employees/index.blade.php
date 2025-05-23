@@ -39,6 +39,8 @@
                                 <th>Age</th>
                                 <th>Address</th>
                                 <th>Zip</th>
+                                <th>Action</th>
+                                <th>Random</th>
                             </tr>
                         </thead>
 
