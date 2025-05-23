@@ -39,6 +39,7 @@
                                 <th>Age</th>
                                 <th>Address</th>
                                 <th>Zip</th>
+                                <th>Action</th>
                             </tr>
                         </thead>
 
