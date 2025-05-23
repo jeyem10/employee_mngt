@@ -25,7 +25,7 @@
                 <div class="col-6 m-auto">
                   <div class="card card-secondary">
                    <div class="card-header">
-                     <h3 class="card-title">Add new student</h3>
+                     <h3 class="card-title">Add new student (trying to figure out)</h3>
                    </div>
 
                      <form  action="{{ route('employees.store') }}" method="POST">
