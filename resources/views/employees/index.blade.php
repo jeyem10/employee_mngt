@@ -40,7 +40,7 @@
                                 <th>Address</th>
                                 <th>Zip</th>
                                 <th>Action</th>
-                                <th>Random</th>
+                                <th>Hello</th>
                             </tr>
                         </thead>
 
